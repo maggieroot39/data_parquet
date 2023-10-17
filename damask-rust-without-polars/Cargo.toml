@@ -1,0 +1,10 @@
+[package]
+name = "arrow_rust_example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+parquet = "47.0.0"
+polars = "0.14"
