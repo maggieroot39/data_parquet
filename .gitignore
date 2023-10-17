@@ -1,2 +1,3 @@
 .venv*
-stock_market_data
+stock_market_data/*/json
+stock_market_data/*/csv/*.csv
